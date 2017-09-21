@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\gameuser\documents\games engineering\abstractpattern\abstractpattern\source.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  AbstractPattern.vcxproj -> C:\Users\gameuser\Documents\Games Engineering\AbstractPattern\Debug\AbstractPattern.exe
+  AbstractPattern.vcxproj -> C:\Users\gameuser\Documents\Games Engineering\AbstractPattern\Debug\AbstractPattern.pdb (Partial PDB)
