@@ -19,11 +19,8 @@ public:
 			{
 				if (ind->type == "Position")
 				{
-
+					//need to access position Component but cant as its stored as a base component
 				}
-					//PositionComponent pc = i.;
-				//rect.x = 
-				//currently working here
 			}
 			SDL_RenderDrawRect(rend, &rect);
 		}
