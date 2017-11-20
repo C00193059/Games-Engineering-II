@@ -4,6 +4,7 @@
 #include "RenderSystem.h"
 #include "ControlSystem.h"
 #include "ControlComponent.h"
+
 int main(void*)
 {
 	Entity player; Entity dog; Entity cat; Entity alien;

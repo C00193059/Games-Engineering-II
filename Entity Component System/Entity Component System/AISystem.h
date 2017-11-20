@@ -13,7 +13,7 @@ public:
 	void update() {
 		cout << "AISystem Update" << endl;
 		/* Loop through Entities with */
-		/* HealthComponents and Update */
+		/* HealthComponents and PositionComponents and Update */
 		/* TBI */
 	}
 };

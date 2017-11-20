@@ -2,5 +2,5 @@
 class Component
 {
 public:
-	string type;
+	std::string type;
 };

@@ -15,5 +15,9 @@ public:
 		/* Loop through Entities with */
 		/* ControlComponents and Update */
 		/* TBI */
+		//for (int i = 0; i < entities.size(); i++)
+		//{
+		//	entities[i].
+		//}
 	}
 };
