@@ -1,3 +1,6 @@
 ﻿  Main.cpp
-  Entity Component System.vcxproj -> C:\Users\gameuser\Documents\Games Engineering\Entity Component System\Debug\Entity Component System.exe
-  Entity Component System.vcxproj -> C:\Users\gameuser\Documents\Games Engineering\Entity Component System\Debug\Entity Component System.pdb (Partial PDB)
+c:\users\gameuser\documents\games engineering\games-engineering-ii\entity component system\entity component system\aisystem.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\documents\games engineering\games-engineering-ii\entity component system\entity component system\rendersystem.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\documents\games engineering\games-engineering-ii\entity component system\entity component system\controlsystem.h(17): warning C4018: '<': signed/unsigned mismatch
+  Entity Component System.vcxproj -> C:\Users\gameuser\Documents\Games Engineering\Games-Engineering-II\Entity Component System\Debug\Entity Component System.exe
+  Entity Component System.vcxproj -> C:\Users\gameuser\Documents\Games Engineering\Games-Engineering-II\Entity Component System\Debug\Entity Component System.pdb (Partial PDB)
